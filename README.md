@@ -1,3 +1,4 @@
-# FixedRunCats
+# FixedRunCat
 
-FIXED VERSION FOR: WINDOWS 10, WINDOWS 11
+A cute running cat animation on your windows taskbar.
+[FIXED FOR WINDOWS 10, 11]
